@@ -935,6 +935,7 @@
             
         case kCGColorSpaceModelCMYK:
         case kCGColorSpaceModelDeviceN:
+        case kCGColorSpaceModelXYZ:
         case kCGColorSpaceModelIndexed:
         case kCGColorSpaceModelLab:
         case kCGColorSpaceModelPattern:
